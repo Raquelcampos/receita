@@ -19,7 +19,7 @@ export default class App extends Component {
     return (
       <>
        <GlobalStyle /> 
-        <Header />
+        <Header  menu="ENVIAR SUA RECEITA" menu2="CADASTRE-SE" menu3="ENTRAR"/>
         <Main/>
         <Footer/>
       </>

@@ -58,7 +58,7 @@ p:hover{
  
 }
 `
-export default function Header() {
+export default function Header(props) {
   return (
     <Div>
      
@@ -68,9 +68,9 @@ export default function Header() {
        <input type="text"  placeholder="Encontre uma receita..." />
        <button> <img src={Lupa} alt="lupa" /></button>
       </div>
-      <p>ENVIAR SUA RECEITA</p>
-      <p>CADASTRE-SE</p>
-      <p>ENTRAR</p>
+      <p>{props.menu}</p>
+      <p>{props.menu2}</p>
+      <p>{props.menu3}</p>
      
     </Div>
   );
