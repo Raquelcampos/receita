@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/my-app/static/js/main.99d690b1.js",
+    "static/media/cuscuz.png": "/my-app/static/media/cuscuz.0325409580a2e429899a.png",
+    "static/media/insta.png": "/my-app/static/media/insta.2a72db64d7a5109f0ae4.png",
+    "static/media/twitter.png": "/my-app/static/media/twitter.27e4032c5abfcb49b78f.png",
+    "index.html": "/my-app/index.html",
+    "main.99d690b1.js.map": "/my-app/static/js/main.99d690b1.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.99d690b1.js"
+  ]
+}
